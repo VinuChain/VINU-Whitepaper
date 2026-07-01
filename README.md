@@ -4,6 +4,8 @@ description: Overview VINU
 
 # Introduction
 
+[![Docs](https://github.com/VinuChain/VINU-Whitepaper/actions/workflows/docs.yml/badge.svg)](https://github.com/VinuChain/VINU-Whitepaper/actions/workflows/docs.yml)
+
 {% hint style="info" %}
 **Vita Inu (VINU)** is the OG Memecoin of BNB Chain.
 
